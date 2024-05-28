@@ -1,0 +1,28 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    
+height: 100vh;
+justify-content: center;
+align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+    background-color: aliceblue;
+    border-radius: 10px;
+
+
+
+}
